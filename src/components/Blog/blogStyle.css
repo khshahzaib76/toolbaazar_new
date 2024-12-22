@@ -1,0 +1,29 @@
+.blogcontainer{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.title{
+    margin: 20px 0;
+}
+
+.blogcardcontainer{
+    width:100%;
+    padding: 0 10%;
+}
+
+/* blog info page stylibg */
+.left-section-blog {
+    width: 100%;
+    height: auto;
+    
+
+    @media (max-width: 640px) {
+        width: 100%;
+        height: auto;
+    }
+}
