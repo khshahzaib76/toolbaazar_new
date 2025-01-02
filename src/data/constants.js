@@ -1745,8 +1745,8 @@ export const projects = [
         //video: "https://www.youtube.com",
         website: "https://www.jasper.ai/",
         image: require('../images/jasper_update.png'),
-        price: "400 PKR",
-        priceper: "month",
+        //price: "400 PKR",
+        //priceper: "month",
         description:
             "Jasper AI Copilot is a sophisticated artificial intelligence platform designed to augment and streamline a variety of business operations. With advanced machine learning capabilities, Jasper AI Copilot assists organizations",
         det_desc: [
